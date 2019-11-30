@@ -39,4 +39,4 @@ class TextAnalyzer
 
     biggest
   end
-end# Your TextAnalyzer model code will go here.
+end
